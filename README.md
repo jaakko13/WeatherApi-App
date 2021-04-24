@@ -21,4 +21,4 @@ User is able to navigate between Main Activity and list of all locations activit
 User is able to select locations from history list to show all data values for that location.
 
 # Known bugs
-If there are objects stored in shared preferences the app is closed and opened the list of locations is stored but if new ones are added the first set may disappear.
+1. If there are objects stored in shared preferences the app is closed and opened the list of locations is stored but if new ones are added the first set may disappear.
