@@ -74,11 +74,11 @@ class MainActivity : AppCompatActivity() {
 
         //loads inputs from last time and uses to fill locationList with last locations
         loadSharedPreferences()
-        
+
         //Gets click from locationList activity to bring new info to MainActivity
         if(tapped != null){
             Log.d("see", tapped)
-            //loadSharedPreferences()
+            loadSharedPreferences()
             thread {
                 try {
                     //getDataChecked(tapped)
