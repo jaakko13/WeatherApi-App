@@ -24,9 +24,8 @@ User is able to select locations from history list to show all data values for t
 # Release 2: 2021-05-14 features (for the future)
 Button to switch between Celsius and farhenheit.
 
-Use phones location api to automatically get weather data for users location.
+Use phones location api to automatically get weather data for users location. Used in MyLocation button.
 
-Fix shared Preferences bug. (1)
 
 # Known bugs
 1. If there are objects stored in shared preferences the app is closed and opened the list of locations is stored but if new ones are added the first set may disappear.
