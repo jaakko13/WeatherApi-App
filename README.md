@@ -3,7 +3,7 @@
 # Topic
 Android application that shows weather in your location. Able to keep list of multiple cities at once. Using the https://openweathermap.org/api api. Switch between Fahrenheit and Celsius. 
 
-# Taregt
+# Target
 Android
 
 # Language
