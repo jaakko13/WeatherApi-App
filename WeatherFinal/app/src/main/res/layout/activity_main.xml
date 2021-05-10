@@ -100,7 +100,51 @@
                     android:layout_height="wrap_content">
                 </TextView>
 
+
+
             </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+
+                <Button
+                    android:id="@+id/celsius"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Celsius">
+
+                </Button>
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent">
+
+                </Space>
+                <Button
+                    android:id="@+id/fahrenheit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Fahrenheit">
+
+                </Button>
+
+
+
+
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/myLocButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="My Location">
+
+            </Button>
         </LinearLayout>
         <LinearLayout
             android:id="@+id/detailsTing"
