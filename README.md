@@ -4,6 +4,7 @@
 Android application that shows weather in your location. Able to keep list of multiple cities at once. Using the https://openweathermap.org/api api. Switch between Fahrenheit and Celsius. 
 
 Google Play: https://play.google.com/store/apps/details?id=javi.toxic.weatherfinal
+
 Screencast: https://youtu.be/eOaNhNuo9qQ
 
 # Target
@@ -21,7 +22,7 @@ User is able to navigate between Main Activity and list of all locations activit
 
 User is able to select locations from history list to show all data values for that location.
 
-# Release 2: 2021-05-14 features (for the future)
+# Release 2: 2021-05-14 features
 Button to switch between Celsius and farhenheit.
 
 Use phones location api to automatically get weather data for users location. Used in MyLocation button.
